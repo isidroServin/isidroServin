@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @isidroServin
-- 👀 I’m interested in web and mobile applications
-- 🌱 I’m currently learning ReactJs.
+- 👀 I’m interested in web and mobile applications.
 - 📫 How to reach me ism210296@gmail.com
 
 <!---
